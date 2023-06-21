@@ -3,7 +3,7 @@
 	<lc:Project>
 		<lc:ProjectId>f794cfa2-d362-4208-85d7-4c5e27290910</lc:ProjectId>
 		<lc:Frequency>9</lc:Frequency>
-		<lc:LogicalCircuitId>3ce99edd-90fe-43de-8435-fc140caffb81</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>64b78249-982f-435e-9c7c-3dd079296c28</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>7e1cbe4f-1230-4dd9-9c52-fae6728d8b80</lc:LogicalCircuitId>
@@ -40,6 +40,11 @@
 		<lc:LogicalCircuitId>3ce99edd-90fe-43de-8435-fc140caffb81</lc:LogicalCircuitId>
 		<lc:Name>Invert</lc:Name>
 		<lc:Notation>Invert</lc:Notation>
+	</lc:LogicalCircuit>
+	<lc:LogicalCircuit>
+		<lc:LogicalCircuitId>64b78249-982f-435e-9c7c-3dd079296c28</lc:LogicalCircuitId>
+		<lc:Name>Circuit</lc:Name>
+		<lc:Notation>Circuit</lc:Notation>
 	</lc:LogicalCircuit>
 	<lc:Pin>
 		<lc:PinId>508df6d8-9404-4f4e-8360-3c4809a15e8d</lc:PinId>
@@ -892,6 +897,13 @@
 		<lc:LogicalCircuitId>7e1cbe4f-1230-4dd9-9c52-fae6728d8b80</lc:LogicalCircuitId>
 		<lc:X>45</lc:X>
 		<lc:Y>34</lc:Y>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>4ad5b0e9-6df8-4c10-bdd3-b64fde37e04b</lc:CircuitSymbolId>
+		<lc:CircuitId>00000000-0000-0000-0000-000000080800</lc:CircuitId>
+		<lc:LogicalCircuitId>64b78249-982f-435e-9c7c-3dd079296c28</lc:LogicalCircuitId>
+		<lc:X>21</lc:X>
+		<lc:Y>17</lc:Y>
 	</lc:CircuitSymbol>
 	<lc:Wire>
 		<lc:WireId>b63035ee-d4ec-4865-8bf8-4d379e50e56b</lc:WireId>
