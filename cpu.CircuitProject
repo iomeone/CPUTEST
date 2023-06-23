@@ -3,7 +3,7 @@
 	<lc:Project>
 		<lc:ProjectId>f794cfa2-d362-4208-85d7-4c5e27290910</lc:ProjectId>
 		<lc:Frequency>11</lc:Frequency>
-		<lc:LogicalCircuitId>7e1cbe4f-1230-4dd9-9c52-fae6728d8b80</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>a44afcdd-278b-49e7-9a61-fcf2f404dc26</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>7e1cbe4f-1230-4dd9-9c52-fae6728d8b80</lc:LogicalCircuitId>
@@ -13,72 +13,85 @@
 		<lc:LogicalCircuitId>11b1e81f-65c5-4551-b540-ba08a129010d</lc:LogicalCircuitId>
 		<lc:Name>Half Adder</lc:Name>
 		<lc:Notation>HA</lc:Notation>
+		<lc:Category>ALU</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>d9ece759-0033-4bf1-b2d3-f50c2025b657</lc:LogicalCircuitId>
 		<lc:Name>Full Adder</lc:Name>
 		<lc:Notation>FA</lc:Notation>
+		<lc:Category>ALU</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>cab48b7c-9e51-435b-82ee-eba3d31a1608</lc:LogicalCircuitId>
 		<lc:Name>8Adder</lc:Name>
 		<lc:Notation>8Add</lc:Notation>
+		<lc:Category>ALU</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>94a28a1e-ffc0-4c8f-97a3-7229352dca45</lc:LogicalCircuitId>
 		<lc:Name>8Light</lc:Name>
 		<lc:Notation>8L</lc:Notation>
+		<lc:Category>Utils</lc:Category>
 		<lc:CircuitShape>Display</lc:CircuitShape>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>e1788bad-f29f-47fc-bf63-1287f1b8c7ee</lc:LogicalCircuitId>
 		<lc:Name>8Switch</lc:Name>
 		<lc:Notation>8W</lc:Notation>
+		<lc:Category>Utils</lc:Category>
 		<lc:CircuitShape>Display</lc:CircuitShape>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>3ce99edd-90fe-43de-8435-fc140caffb81</lc:LogicalCircuitId>
 		<lc:Name>Invert</lc:Name>
 		<lc:Notation>Invert</lc:Notation>
+		<lc:Category>ALU</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>64b78249-982f-435e-9c7c-3dd079296c28</lc:LogicalCircuitId>
 		<lc:Name>Digit</lc:Name>
 		<lc:Notation>DIG</lc:Notation>
+		<lc:Category>Utils</lc:Category>
 		<lc:CircuitShape>Display</lc:CircuitShape>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>a44afcdd-278b-49e7-9a61-fcf2f404dc26</lc:LogicalCircuitId>
 		<lc:Name>HEX Display</lc:Name>
 		<lc:Notation>HEX</lc:Notation>
+		<lc:Category>Utils</lc:Category>
 		<lc:CircuitShape>Display</lc:CircuitShape>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>edd95213-6858-4e3d-9335-af2e80104f99</lc:LogicalCircuitId>
 		<lc:Name>DEC Display</lc:Name>
 		<lc:Notation>Dec</lc:Notation>
+		<lc:Category>Utils</lc:Category>
 		<lc:CircuitShape>Display</lc:CircuitShape>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>0502c536-0817-4c7a-8f04-8a56624814ab</lc:LogicalCircuitId>
 		<lc:Name>21Select</lc:Name>
 		<lc:Notation>21S</lc:Notation>
+		<lc:Category>Basic</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>d1f4c408-0166-4df7-9480-22b7c78c052b</lc:LogicalCircuitId>
 		<lc:Name>821Select</lc:Name>
 		<lc:Notation>821S</lc:Notation>
+		<lc:Category>Basic</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>9ef4391b-757d-4c79-90cf-ac9627a5960c</lc:LogicalCircuitId>
 		<lc:Name>4Switch</lc:Name>
 		<lc:Notation>4Switch</lc:Notation>
+		<lc:Category>Utils</lc:Category>
 		<lc:CircuitShape>Display</lc:CircuitShape>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>7b66b786-0e9b-4871-a35a-f340418ea3c6</lc:LogicalCircuitId>
 		<lc:Name>Test</lc:Name>
 		<lc:Notation>Test</lc:Notation>
+		<lc:Category>Test</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>b09df15a-7e9f-4403-9f94-2fbc2d354c06</lc:LogicalCircuitId>
@@ -108,6 +121,7 @@
 		<lc:LogicalCircuitId>2f842999-fe67-40af-a803-9fa43af617e4</lc:LogicalCircuitId>
 		<lc:Name>Counter</lc:Name>
 		<lc:Notation>CT</lc:Notation>
+		<lc:Category>CU</lc:Category>
 	</lc:LogicalCircuit>
 	<lc:Pin>
 		<lc:PinId>508df6d8-9404-4f4e-8360-3c4809a15e8d</lc:PinId>
@@ -524,7 +538,6 @@
 		<lc:CircuitId>2f842999-fe67-40af-a803-9fa43af617e4</lc:CircuitId>
 		<lc:Name>CP&gt;</lc:Name>
 		<lc:JamNotation>CP&gt;</lc:JamNotation>
-		<lc:Index>1</lc:Index>
 	</lc:Pin>
 	<lc:Pin>
 		<lc:PinId>50e691d5-c0de-4aaa-9e44-7ac3e332d6c6</lc:PinId>
